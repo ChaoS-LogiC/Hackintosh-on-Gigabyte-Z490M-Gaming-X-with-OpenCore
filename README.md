@@ -1,0 +1,1 @@
+# Hackintosh-on-Gigabyte-Z490M-Gaming-X-with-OpenCore
